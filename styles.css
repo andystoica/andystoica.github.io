@@ -92,6 +92,7 @@ a:hover {
     display: block;
     margin-right: auto;
     color: white;
+    text-transform: capitalize;
 }
 
 .nav li {
